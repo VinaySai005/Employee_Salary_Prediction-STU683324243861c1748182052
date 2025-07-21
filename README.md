@@ -1,6 +1,6 @@
 # 💰 SalarySense - Professional Salary Prediction Platform
 
-A comprehensive machine learning web application that predicts data science salaries using AI and provides insights in Indian Rupees (INR).
+A comprehensive machine learning web application that predicts data science salaries using AI and provides insights.
 
 ## 🌟 Project Overview
 
@@ -52,20 +52,22 @@ SalarySense is designed for the professional data science job market, featuring:
 - **Lucide React**: Beautiful icons
 
 ## 📊 Dataset Features
+Link for the dataset: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+Data Science Job Salaries Dataset contains 11 columns, each are:
 
-The model uses these features to predict professional data science salaries:
+work_year: The year the salary was paid.
+experience_level: The experience level in the job during the year
+employment_type: The type of employment for the role
+job_title: The role worked in during the year.
+salary: The total gross salary amount paid.
+salary_currency: The currency of the salary paid as an ISO 4217 currency code.
+salaryinusd: The salary in USD
+employee_residence: Employee's primary country of residence in during the work year as an ISO 3166 country code.
+remote_ratio: The overall amount of work done remotely
+company_location: The country of the employer's main office or contracting branch
+company_size: The median number of people that worked for the company during the year
 
-| Feature | Description | Context |
-|---------|-------------|---------|
-| **work_year** | Employment year (2020-2023) | Recent market trends |
-| **experience_level** | Fresher, Junior, Senior, Manager | Career progression |
-| **employment_type** | Full Time, Part Time, Contract, Freelance | Employment patterns |
-| **job_title** | 10 data science roles | Popular DS roles |
-| **employee_location** | 8 major cities | Tech hubs and metros |
-| **remote_ratio** | 0%, 50%, 100% | Post-COVID work patterns |
-| **company_location** | Company's city | Business location impact |
-| **company_type** | MNC, Startup, Government, Corporate | Company landscape |
-| **salary_in_inr** | Target variable | Annual salary in INR |
+
 
 ## 🔧 Installation & Setup
 
