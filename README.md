@@ -177,4 +177,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <img width="1745" height="920" alt="image" src="https://github.com/user-attachments/assets/c5c70290-2489-44e0-9968-70f4441ce227" />
 <img width="1733" height="924" alt="image" src="https://github.com/user-attachments/assets/d108a713-d104-45ac-a469-aecb49227eac" />
 
+## Notebook Output
+<img width="1114" height="833" alt="image" src="https://github.com/user-attachments/assets/3ad7f9f3-2516-4243-8ffa-9d238d08cb1a" />
+<img width="1078" height="921" alt="image" src="https://github.com/user-attachments/assets/acce5119-150f-40b6-af30-f44b14db7627" />
+<img width="533" height="493" alt="image" src="https://github.com/user-attachments/assets/dc9bf6be-ad1b-469f-8935-e6a69acbc9c6" />
 
