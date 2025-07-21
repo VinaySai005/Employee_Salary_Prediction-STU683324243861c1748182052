@@ -53,6 +53,7 @@ SalarySense is designed for the professional data science job market, featuring:
 
 ## 📊 Dataset Features
 Link for the dataset: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+
 Data Science Job Salaries Dataset contains 11 columns, each are:
 
 work_year: The year the salary was paid.
